@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-🔗 **Live Demo:** [Smart Yoga Mat App](https://smart-yoga-mat.netlify.app/products)
+🔗 **Live Demo:** [Smart Yoga Mat App](https://smart-yoga-mat.netlify.app)
 
 The Smart Yoga Mat Mobile App is a cross-platform React Native application designed to connect with a smart yoga mat device. It offers real-time connectivity via Bluetooth or Wi-Fi, control over mat functions, relaxing sound options, product showcases, OTA firmware updates, and user analytics—all to elevate the yoga experience.
 
